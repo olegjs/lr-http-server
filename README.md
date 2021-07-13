@@ -1,10 +1,12 @@
 # lr-http-server
 
+**Forked [digisfera/lr-http-server](https://github.com/digisfera/lr-http-server) because it has been abandoned for long time. This is not a production-grade server; however, it meets my development needs perfectly.**
+
 An HTTP server with livereload included. If a file inside the folder being served is changed, added or deleted, the browser will automatically reload.
 
 ## Installing
 
-    npm install -g lr-http-server
+    npm install @olegjs/lr-http-server
 
 ## Usage
 

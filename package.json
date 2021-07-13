@@ -1,5 +1,5 @@
 {
-  "name": "lr-http-server",
+  "name": "@olegjs/lr-http-server",
   "version": "1.0.0-beta.3",
   "description": "An HTTP server with livereload included",
   "main": "src/index.js",
@@ -11,15 +11,14 @@
     "lr-http-server": "bin/lr-http-server",
     "lrhs": "bin/lr-http-server"
   },
-  "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git@github.com:digisfera/lr-http-server.git"
+    "url": "git@github.com:olegjs/lr-http-server.git"
   },
   "author": "Manuel Cabral (m.cabral@digisfera.pt)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/digisfera/lr-http-server/issues"
+    "url": "https://github.com/olegjs/lr-http-server/issues"
   },
   "dependencies": {
     "commander": "^8.0.0",
